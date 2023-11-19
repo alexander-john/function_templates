@@ -1,4 +1,19 @@
 /*
+ * What you need:
+ * CLion IDE
+ *
+ * Step 1:
+ * Download Zip
+ *
+ * Step 2:
+ * Unzip
+ *
+ * Step 3:
+ * Open main.cpp in CLion
+ *
+ * Step 4:
+ * Done!
+ *
  * Defining a function template follows the same syntax as regular function, except
  * that it is preceded by the template keyword and a series of template parameters
  * enclosed in angle brackets < >
@@ -49,7 +64,9 @@
  * Naturally, for that, the type shall be unambiguous. If sum is called with arguments of different
  * types, the compiler may not be able to deduce the type of T automatically.
  *
- * 
+ * This program was written by Alexander John using information gained from the source below.
+ *
+ * Source: https://cplusplus.com/doc/tutorial/functions2/
  */
 #include <iostream>
 using namespace std;
